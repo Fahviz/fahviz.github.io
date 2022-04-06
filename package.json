@@ -1,0 +1,19 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fahviz/wuhan.github.io.git"
+  },
+  "author": "wuhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fahviz/wuhan.github.io/issues"
+  },
+  "homepage": "https://github.com/Fahviz/wuhan.github.io#readme"
+}
